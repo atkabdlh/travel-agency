@@ -1,0 +1,20 @@
+Family Package;China;Experience the beautiful Far East on a China tour the whole family can;enjoy. Explore the hidden corners of the Forbidden City,meet the pandas;of Chengdu, and get a scenic taste of local life in Guillin.
+Family Package;Korea; ; ; 
+Family Package;Japan; ; ; 
+Family Package;Singapore; ; ; 
+Family Package;Indonesia; ; ; 
+Friends Package;China;Journey through one of the world's most influential and ancient lands;on this spectacular trip to China. From imperial Beijing to rapidly;changing Hong Kong, discover the Middle Kingdom's wonders, old and new.
+Friends Package;Korea; ; ; 
+Friends Package;Japan;Experience ancient traditions in Kyoto, travel by train through pristine;countryside, visit the restorative Hakone hot springs, shop up a storm in Tokyo,;see the shrines and temples of Nikko, boat on Hakone's peaceful lake.
+Friends Package;Singapore; ; ; 
+Friends Package;Indonesia; ; ; 
+Honeymoon Package;China;A memorable trip starts with the essentials of most China tours, including the Great Wall,;the Forbidden City, and the Terracotta Army. It the takes you deeper;into this amazing country, discovering beautiful Guilin and the Li River.
+Honeymoon Package;Korea; ; ; 
+Honeymoon Package;Japan;There's no country on earth like Japan. Tokyo to Kyoto is one of its classic;travel routes, but this Japan tour takes a more in-depth look at the colour,;culture, and history of this unique destination.
+Honeymoon Package;Singapore; ; ; 
+Honeymoon Package;Indonesia;The Island of Bali offers something for everyone. This tropical paradise;has a unique blend of mordern tourist facilities combined with wonderful;shopping and a rich cultural heritage.
+Business Package;China;China's past, present and future comes alive! Explore Beijing's greatest;splendours, meet Xian warriors, experience Tibetan culture, visit a Panda;sanctuary, cruise the winding Yangtze River and shop in Shanghai.
+Business Package;Korea; ; ; 
+Business Package;Japan;Experience the many different faces of Japan from contemporary Tokyo to;traditional Kyoto and Nara, from majestic Mount Fuji to historic Takayama;and find out how Hiroshima has developed.
+Business Package;Singapore; ; ; 
+Business Package;Indonesia; ; ; 
